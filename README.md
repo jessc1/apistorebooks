@@ -3,7 +3,7 @@
 > adicionar o autor do livro a partir de uma lista de autores importada de um arquivo csv
 > api feita a partir desse desafio https://github.com/olist/work-at-olist
 
-O deploy dessa api está no:
+O deploy:
 https://apistorebooks.herokuapp.com/
 
 # Funcionalidades da api:
